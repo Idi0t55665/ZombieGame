@@ -1,3 +1,24 @@
+/*
+Idi0t55665
+
+NEED TO ADD:
+Zombies spawing every round
+round increasing
+difficulty increasing over time(increase health by 100 until round 9 then add 1.1x multiplier) 
+PAP
+More Perks
+Proper shooting
+
+I've got a lot of work to you!
+
+Might give up!
+
+
+
+*/
+
+
+
 let dogmode;
 let round;
 let zombie, player;
